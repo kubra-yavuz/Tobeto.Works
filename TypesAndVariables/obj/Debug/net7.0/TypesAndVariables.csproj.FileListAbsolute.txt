@@ -1,0 +1,15 @@
+/Users/kubranuryavuz/Desktop/ödevler/Tobeto.Works/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables
+/Users/kubranuryavuz/Desktop/ödevler/Tobeto.Works/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.deps.json
+/Users/kubranuryavuz/Desktop/ödevler/Tobeto.Works/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.runtimeconfig.json
+/Users/kubranuryavuz/Desktop/ödevler/Tobeto.Works/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.dll
+/Users/kubranuryavuz/Desktop/ödevler/Tobeto.Works/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.pdb
+/Users/kubranuryavuz/Desktop/ödevler/Tobeto.Works/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.csproj.AssemblyReference.cache
+/Users/kubranuryavuz/Desktop/ödevler/Tobeto.Works/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kubranuryavuz/Desktop/ödevler/Tobeto.Works/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.AssemblyInfoInputs.cache
+/Users/kubranuryavuz/Desktop/ödevler/Tobeto.Works/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.AssemblyInfo.cs
+/Users/kubranuryavuz/Desktop/ödevler/Tobeto.Works/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.csproj.CoreCompileInputs.cache
+/Users/kubranuryavuz/Desktop/ödevler/Tobeto.Works/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.dll
+/Users/kubranuryavuz/Desktop/ödevler/Tobeto.Works/TypesAndVariables/obj/Debug/net7.0/refint/TypesAndVariables.dll
+/Users/kubranuryavuz/Desktop/ödevler/Tobeto.Works/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.pdb
+/Users/kubranuryavuz/Desktop/ödevler/Tobeto.Works/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.genruntimeconfig.cache
+/Users/kubranuryavuz/Desktop/ödevler/Tobeto.Works/TypesAndVariables/obj/Debug/net7.0/ref/TypesAndVariables.dll

@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = TypeAndVariables
-build_property.ProjectDir = /Users/kubranuryavuz/Desktop/ödevler/Tobeto.Works/TypeAndVariables/
+build_property.RootNamespace = TypesAndVariables
+build_property.ProjectDir = /Users/kubranuryavuz/Desktop/ödevler/Tobeto.Works/TypesAndVariables/

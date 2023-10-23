@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kubranuryavuz/Desktop/ödevler/Tobeto.Works/TypeAndVariables/TypeAndVariables.csproj",
-      "projectName": "TypeAndVariables",
-      "projectPath": "/Users/kubranuryavuz/Desktop/ödevler/Tobeto.Works/TypeAndVariables/TypeAndVariables.csproj",
+      "projectUniqueName": "/Users/kubranuryavuz/Desktop/ödevler/Tobeto.Works/TypesAndVariables/TypesAndVariables.csproj",
+      "projectName": "TypesAndVariables",
+      "projectPath": "/Users/kubranuryavuz/Desktop/ödevler/Tobeto.Works/TypesAndVariables/TypesAndVariables.csproj",
       "packagesPath": "/Users/kubranuryavuz/.nuget/packages/",
-      "outputPath": "/Users/kubranuryavuz/Desktop/ödevler/Tobeto.Works/TypeAndVariables/obj/",
+      "outputPath": "/Users/kubranuryavuz/Desktop/ödevler/Tobeto.Works/TypesAndVariables/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kubranuryavuz/.nuget/NuGet/NuGet.Config"
